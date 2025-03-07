@@ -24,7 +24,7 @@ Ce projet est un exemple de blog personnel réalisé à l'aide de Django. Il sui
 ### Lancer le serveur Django
 - Toujours dans le terminal, tapper :
   ```bash
-python manage.py runserver
+  python manage.py runserver
 
 - Cela permet d'activer le serveur.
 
