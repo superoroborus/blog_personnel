@@ -21,7 +21,10 @@ Ce projet est un exemple de blog personnel réalisé à l'aide de Django. Il sui
   ```bash
   pip install django
 
-Toujours dans le terminal, tapper : python manage.py runserver 
+Toujours dans le terminal, tapper :
+  ```bash
+python manage.py runserver
+
 Cela permet d'activer le serveur.
 
 Ouvrir son navigateur et tapper : [http://localhost:8000/admin](http://localhost:8000/admin/)
