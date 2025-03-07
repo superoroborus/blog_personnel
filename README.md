@@ -13,5 +13,5 @@ Tapper : pip install django
 Toujours dans le terminal, tapper : python manage.py runserver 
 Cela permet d'activer le serveur.
 
-Ouvrir son navigateur et tapper : localhost:8000/admin
+Ouvrir son navigateur et tapper : [http://localhost:8000/admin](http://localhost:8000/admin/)
 on peut visualiser le blog avec : http://localhost:8000/
